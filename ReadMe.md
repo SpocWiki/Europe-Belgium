@@ -112,8 +112,8 @@ id: Belgium
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Belgium//
-markerFolder: ./Belgium//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Belgium] 
