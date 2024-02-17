@@ -122,7 +122,7 @@ markerFolder: .//
 [Area-Land::32820] 
 Continent :: [[Europe]]  
 [VehicleCode::B] 
-Capital :: [[Brussels=Bruxelles]]  
+Capital :: [[Regions~Belgium/Bruxelles/Brussels/City/Brussels=Bruxelles]]  
 ![[Great_coat_of_arms_of_Belgium.svg|950]] 
 ![[Anthem-Belgium.mp3]] 
 ![[Flag_of_Belgium.svg|350]] 
