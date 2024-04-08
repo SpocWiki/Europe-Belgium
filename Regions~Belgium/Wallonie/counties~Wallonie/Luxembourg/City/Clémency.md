@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.42] 
-[geo-lat::49.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.42] 
+[has_place_latitude::49.6] 
 [name::Clémency] 
 State ::  
 Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 

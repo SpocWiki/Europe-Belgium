@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.95] 
-[geo-lat::50.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.95] 
+[has_place_latitude::50.45] 
 [name::Mons] 
 State ::  
 Country :: [[Belgium]]  

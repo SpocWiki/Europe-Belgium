@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.56] 
-[geo-lat::50.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.56] 
+[has_place_latitude::50.62] 
 [name::Luettich] 
 State ::  
 Country :: [[Belgium]]  

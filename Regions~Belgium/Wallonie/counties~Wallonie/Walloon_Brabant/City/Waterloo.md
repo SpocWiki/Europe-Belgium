@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.39] 
-[geo-lat::50.71] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.39] 
+[has_place_latitude::50.71] 
 [name::Waterloo] 
 State ::  
 Country :: [[Belgium]]  

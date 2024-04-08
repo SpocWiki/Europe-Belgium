@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.03] 
-[geo-lat::50.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.03] 
+[has_place_latitude::50.63] 
 [name::Eupen] 
 State ::  
 Country :: [[Belgium]]  
