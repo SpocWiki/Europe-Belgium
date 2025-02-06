@@ -1,16 +1,20 @@
 ---
-location: [51.17,4.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 51.17
+  - 4.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34479
 isDeleted: false
 confidential: public
-
+aliases:
+  - St.Nicolas
+  - Sint-Niklaas
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [51.05,3.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 51.05
+  - 3.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30412
 isDeleted: false
 confidential: public
-
+aliases:
+  - Ghent
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

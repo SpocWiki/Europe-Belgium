@@ -1,16 +1,21 @@
 ---
-location: [50.47,4.85] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 50.47
+  - 4.85
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32728
 isDeleted: false
 confidential: public
-
+aliases:
+  - Nameur
+  - Namur
+  - Namen
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

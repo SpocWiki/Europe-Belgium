@@ -1,17 +1,26 @@
 ---
-location: [50.85,4.36] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 50.85
+  - 4.36
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
+  - geo/City
 
 
-SpocWebEntityId: 29385
+SpocWebEntityId: [29385,29376]
 isDeleted: false
 confidential: public
-
+aliases:
+  - Brussels
+  - Bruxelles
+  - Bruessel
+  - Brüssel
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::4.36] 
