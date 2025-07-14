@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tirlemont.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.public.md) 
+### [Tirlemont](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Tirlemont.md) 
 
-### [Tirlemont.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.internal.md) 
+### [Tirlemont.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Tirlemont.public.md) 
 
-### [Tirlemont.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.protect.md) 
+### [Tirlemont.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Tirlemont.internal.md) 
 
-### [Tirlemont.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.private.md) 
+### [Tirlemont.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Tirlemont.protect.md) 
 
-### [Tirlemont.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.personal.md) 
+### [Tirlemont.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Tirlemont.private.md) 
 
-### [Tirlemont.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.secret.md)
+### [Tirlemont.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Tirlemont.personal.md) 
+
+### [Tirlemont.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Tirlemont.secret.md)
 

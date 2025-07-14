@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clémency.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityClémency.public.md) 
+### [Clémency](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Clémency.md) 
 
-### [Clémency.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityClémency.internal.md) 
+### [Clémency.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Clémency.public.md) 
 
-### [Clémency.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityClémency.protect.md) 
+### [Clémency.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Clémency.internal.md) 
 
-### [Clémency.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityClémency.private.md) 
+### [Clémency.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Clémency.protect.md) 
 
-### [Clémency.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityClémency.personal.md) 
+### [Clémency.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Clémency.private.md) 
 
-### [Clémency.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityClémency.secret.md)
+### [Clémency.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Clémency.personal.md) 
+
+### [Clémency.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Clémency.secret.md)
 

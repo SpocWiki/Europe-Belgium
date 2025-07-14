@@ -41,15 +41,17 @@ markerFolder: ./Flemish_Brabant/
 
 ## Confidential Links & Embeds: 
 
-### [Flemish_Brabant.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.public.md) 
+### [Flemish_Brabant](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant.md) 
 
-### [Flemish_Brabant.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.internal.md) 
+### [Flemish_Brabant.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant.public.md) 
 
-### [Flemish_Brabant.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.protect.md) 
+### [Flemish_Brabant.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant.internal.md) 
 
-### [Flemish_Brabant.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.private.md) 
+### [Flemish_Brabant.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant.protect.md) 
 
-### [Flemish_Brabant.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.personal.md) 
+### [Flemish_Brabant.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant.private.md) 
 
-### [Flemish_Brabant.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.secret.md)
+### [Flemish_Brabant.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant.personal.md) 
+
+### [Flemish_Brabant.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant.secret.md)
 

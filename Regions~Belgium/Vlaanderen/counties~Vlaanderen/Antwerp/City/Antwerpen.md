@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Antwerpen.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityAntwerpen.public.md) 
+### [Antwerpen](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen.md) 
 
-### [Antwerpen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityAntwerpen.internal.md) 
+### [Antwerpen.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen.public.md) 
 
-### [Antwerpen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityAntwerpen.protect.md) 
+### [Antwerpen.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen.internal.md) 
 
-### [Antwerpen.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityAntwerpen.private.md) 
+### [Antwerpen.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen.protect.md) 
 
-### [Antwerpen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityAntwerpen.personal.md) 
+### [Antwerpen.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen.private.md) 
 
-### [Antwerpen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityAntwerpen.secret.md)
+### [Antwerpen.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen.personal.md) 
+
+### [Antwerpen.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merksem.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMerksem.public.md) 
+### [Merksem](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Merksem.md) 
 
-### [Merksem.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMerksem.internal.md) 
+### [Merksem.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Merksem.public.md) 
 
-### [Merksem.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMerksem.protect.md) 
+### [Merksem.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Merksem.internal.md) 
 
-### [Merksem.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMerksem.private.md) 
+### [Merksem.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Merksem.protect.md) 
 
-### [Merksem.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMerksem.personal.md) 
+### [Merksem.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Merksem.private.md) 
 
-### [Merksem.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMerksem.secret.md)
+### [Merksem.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Merksem.personal.md) 
+
+### [Merksem.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Merksem.secret.md)
 

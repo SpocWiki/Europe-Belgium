@@ -67,15 +67,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leuven.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.public.md) 
+### [Leuven](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven.md) 
 
-### [Leuven.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.internal.md) 
+### [Leuven.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven.public.md) 
 
-### [Leuven.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.protect.md) 
+### [Leuven.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven.internal.md) 
 
-### [Leuven.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.private.md) 
+### [Leuven.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven.protect.md) 
 
-### [Leuven.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.personal.md) 
+### [Leuven.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven.private.md) 
 
-### [Leuven.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.secret.md)
+### [Leuven.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven.personal.md) 
+
+### [Leuven.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven.secret.md)
 

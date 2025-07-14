@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gent.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenGent.public.md) 
+### [Gent](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent.md) 
 
-### [Gent.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenGent.internal.md) 
+### [Gent.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent.public.md) 
 
-### [Gent.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenGent.protect.md) 
+### [Gent.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent.internal.md) 
 
-### [Gent.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenGent.private.md) 
+### [Gent.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent.protect.md) 
 
-### [Gent.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenGent.personal.md) 
+### [Gent.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent.private.md) 
 
-### [Gent.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenGent.secret.md)
+### [Gent.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent.personal.md) 
+
+### [Gent.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent.secret.md)
 

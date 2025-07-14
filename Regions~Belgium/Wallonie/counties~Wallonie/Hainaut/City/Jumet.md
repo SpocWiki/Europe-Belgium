@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jumet.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityJumet.public.md) 
+### [Jumet](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Jumet.md) 
 
-### [Jumet.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityJumet.internal.md) 
+### [Jumet.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Jumet.public.md) 
 
-### [Jumet.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityJumet.protect.md) 
+### [Jumet.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Jumet.internal.md) 
 
-### [Jumet.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityJumet.private.md) 
+### [Jumet.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Jumet.protect.md) 
 
-### [Jumet.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityJumet.personal.md) 
+### [Jumet.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Jumet.private.md) 
 
-### [Jumet.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityJumet.secret.md)
+### [Jumet.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Jumet.personal.md) 
+
+### [Jumet.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Jumet.secret.md)
 

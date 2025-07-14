@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lokeren.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenLokeren.public.md) 
+### [Lokeren](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Lokeren.md) 
 
-### [Lokeren.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenLokeren.internal.md) 
+### [Lokeren.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Lokeren.public.md) 
 
-### [Lokeren.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenLokeren.protect.md) 
+### [Lokeren.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Lokeren.internal.md) 
 
-### [Lokeren.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenLokeren.private.md) 
+### [Lokeren.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Lokeren.protect.md) 
 
-### [Lokeren.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenLokeren.personal.md) 
+### [Lokeren.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Lokeren.private.md) 
 
-### [Lokeren.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenLokeren.secret.md)
+### [Lokeren.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Lokeren.personal.md) 
+
+### [Lokeren.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Lokeren.secret.md)
 

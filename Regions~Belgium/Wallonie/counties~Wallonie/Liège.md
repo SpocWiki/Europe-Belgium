@@ -41,15 +41,17 @@ markerFolder: ./Liege/
 
 ## Confidential Links & Embeds: 
 
-### [Liège.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLiège.public.md) 
+### [Liège](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège.md) 
 
-### [Liège.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLiège.internal.md) 
+### [Liège.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège.public.md) 
 
-### [Liège.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLiège.protect.md) 
+### [Liège.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège.internal.md) 
 
-### [Liège.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLiège.private.md) 
+### [Liège.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège.protect.md) 
 
-### [Liège.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLiège.personal.md) 
+### [Liège.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège.private.md) 
 
-### [Liège.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLiège.secret.md)
+### [Liège.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège.personal.md) 
+
+### [Liège.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège.secret.md)
 

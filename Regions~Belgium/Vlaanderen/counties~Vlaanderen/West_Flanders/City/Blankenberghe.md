@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blankenberghe.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.public.md) 
+### [Blankenberghe](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Blankenberghe.md) 
 
-### [Blankenberghe.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.internal.md) 
+### [Blankenberghe.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Blankenberghe.public.md) 
 
-### [Blankenberghe.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.protect.md) 
+### [Blankenberghe.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Blankenberghe.internal.md) 
 
-### [Blankenberghe.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.private.md) 
+### [Blankenberghe.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Blankenberghe.protect.md) 
 
-### [Blankenberghe.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.personal.md) 
+### [Blankenberghe.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Blankenberghe.private.md) 
 
-### [Blankenberghe.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.secret.md)
+### [Blankenberghe.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Blankenberghe.personal.md) 
+
+### [Blankenberghe.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Blankenberghe.secret.md)
 

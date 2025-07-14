@@ -40,15 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Namur,Cité.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.public.md) 
+### [Namur,Cité](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.md) 
 
-### [Namur,Cité.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.internal.md) 
+### [Namur,Cité.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.public.md) 
 
-### [Namur,Cité.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.protect.md) 
+### [Namur,Cité.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.internal.md) 
 
-### [Namur,Cité.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.private.md) 
+### [Namur,Cité.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.protect.md) 
 
-### [Namur,Cité.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.personal.md) 
+### [Namur,Cité.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.private.md) 
 
-### [Namur,Cité.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.secret.md)
+### [Namur,Cité.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.personal.md) 
+
+### [Namur,Cité.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Renaix.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-Vlaanderen\AalstRenaix.public.md) 
+### [Renaix](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Aalst/Renaix.md) 
 
-### [Renaix.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-Vlaanderen\AalstRenaix.internal.md) 
+### [Renaix.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Aalst/Renaix.public.md) 
 
-### [Renaix.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-Vlaanderen\AalstRenaix.protect.md) 
+### [Renaix.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Aalst/Renaix.internal.md) 
 
-### [Renaix.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-Vlaanderen\AalstRenaix.private.md) 
+### [Renaix.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Aalst/Renaix.protect.md) 
 
-### [Renaix.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-Vlaanderen\AalstRenaix.personal.md) 
+### [Renaix.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Aalst/Renaix.private.md) 
 
-### [Renaix.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-Vlaanderen\AalstRenaix.secret.md)
+### [Renaix.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Aalst/Renaix.personal.md) 
+
+### [Renaix.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Aalst/Renaix.secret.md)
 

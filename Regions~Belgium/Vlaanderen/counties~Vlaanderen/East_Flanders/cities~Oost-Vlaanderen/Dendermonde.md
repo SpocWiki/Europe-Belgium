@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dendermonde.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenDendermonde.public.md) 
+### [Dendermonde](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Dendermonde.md) 
 
-### [Dendermonde.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenDendermonde.internal.md) 
+### [Dendermonde.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Dendermonde.public.md) 
 
-### [Dendermonde.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenDendermonde.protect.md) 
+### [Dendermonde.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Dendermonde.internal.md) 
 
-### [Dendermonde.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenDendermonde.private.md) 
+### [Dendermonde.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Dendermonde.protect.md) 
 
-### [Dendermonde.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenDendermonde.personal.md) 
+### [Dendermonde.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Dendermonde.private.md) 
 
-### [Dendermonde.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenDendermonde.secret.md)
+### [Dendermonde.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Dendermonde.personal.md) 
+
+### [Dendermonde.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Dendermonde.secret.md)
 

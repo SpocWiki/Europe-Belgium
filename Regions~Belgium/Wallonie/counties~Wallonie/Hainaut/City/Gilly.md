@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gilly.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityGilly.public.md) 
+### [Gilly](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Gilly.md) 
 
-### [Gilly.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityGilly.internal.md) 
+### [Gilly.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Gilly.public.md) 
 
-### [Gilly.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityGilly.protect.md) 
+### [Gilly.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Gilly.internal.md) 
 
-### [Gilly.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityGilly.private.md) 
+### [Gilly.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Gilly.protect.md) 
 
-### [Gilly.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityGilly.personal.md) 
+### [Gilly.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Gilly.private.md) 
 
-### [Gilly.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityGilly.secret.md)
+### [Gilly.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Gilly.personal.md) 
+
+### [Gilly.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Gilly.secret.md)
 

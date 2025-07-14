@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Armentieres.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityArmentieres.public.md) 
+### [Armentieres](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Armentieres.md) 
 
-### [Armentieres.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityArmentieres.internal.md) 
+### [Armentieres.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Armentieres.public.md) 
 
-### [Armentieres.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityArmentieres.protect.md) 
+### [Armentieres.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Armentieres.internal.md) 
 
-### [Armentieres.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityArmentieres.private.md) 
+### [Armentieres.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Armentieres.protect.md) 
 
-### [Armentieres.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityArmentieres.personal.md) 
+### [Armentieres.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Armentieres.private.md) 
 
-### [Armentieres.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityArmentieres.secret.md)
+### [Armentieres.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Armentieres.personal.md) 
+
+### [Armentieres.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Armentieres.secret.md)
 

@@ -16,21 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Flanders)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Vlaanderen.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.public.md) 
+### [Vlaanderen](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen.md) 
 
-### [Vlaanderen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.internal.md) 
+### [Vlaanderen.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen.public.md) 
 
-### [Vlaanderen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.protect.md) 
+### [Vlaanderen.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen.internal.md) 
 
-### [Vlaanderen.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.private.md) 
+### [Vlaanderen.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen.protect.md) 
 
-### [Vlaanderen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.personal.md) 
+### [Vlaanderen.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen.private.md) 
 
-### [Vlaanderen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.secret.md)
+### [Vlaanderen.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen.personal.md) 
+
+### [Vlaanderen.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen.secret.md)
 

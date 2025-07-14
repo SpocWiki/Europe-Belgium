@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marcinelle.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMarcinelle.public.md) 
+### [Marcinelle](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Marcinelle.md) 
 
-### [Marcinelle.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMarcinelle.internal.md) 
+### [Marcinelle.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Marcinelle.public.md) 
 
-### [Marcinelle.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMarcinelle.protect.md) 
+### [Marcinelle.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Marcinelle.internal.md) 
 
-### [Marcinelle.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMarcinelle.private.md) 
+### [Marcinelle.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Marcinelle.protect.md) 
 
-### [Marcinelle.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMarcinelle.personal.md) 
+### [Marcinelle.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Marcinelle.private.md) 
 
-### [Marcinelle.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMarcinelle.secret.md)
+### [Marcinelle.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Marcinelle.personal.md) 
+
+### [Marcinelle.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Marcinelle.secret.md)
 

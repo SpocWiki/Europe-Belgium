@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uccle.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityUccle.public.md) 
+### [Uccle](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Uccle.md) 
 
-### [Uccle.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityUccle.internal.md) 
+### [Uccle.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Uccle.public.md) 
 
-### [Uccle.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityUccle.protect.md) 
+### [Uccle.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Uccle.internal.md) 
 
-### [Uccle.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityUccle.private.md) 
+### [Uccle.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Uccle.protect.md) 
 
-### [Uccle.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityUccle.personal.md) 
+### [Uccle.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Uccle.private.md) 
 
-### [Uccle.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityUccle.secret.md)
+### [Uccle.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Uccle.personal.md) 
+
+### [Uccle.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Uccle.secret.md)
 

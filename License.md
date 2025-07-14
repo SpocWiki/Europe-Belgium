@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~West\BelgiumLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~West\BelgiumLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~West\BelgiumLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~West\BelgiumLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~West\BelgiumLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~West\BelgiumLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/License.secret.md)
 

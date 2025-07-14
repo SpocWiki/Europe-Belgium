@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eeklo.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenEeklo.public.md) 
+### [Eeklo](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Eeklo.md) 
 
-### [Eeklo.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenEeklo.internal.md) 
+### [Eeklo.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Eeklo.public.md) 
 
-### [Eeklo.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenEeklo.protect.md) 
+### [Eeklo.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Eeklo.internal.md) 
 
-### [Eeklo.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenEeklo.private.md) 
+### [Eeklo.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Eeklo.protect.md) 
 
-### [Eeklo.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenEeklo.personal.md) 
+### [Eeklo.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Eeklo.private.md) 
 
-### [Eeklo.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\East_Flanders\cities~Oost-VlaanderenEeklo.secret.md)
+### [Eeklo.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Eeklo.personal.md) 
+
+### [Eeklo.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Eeklo.secret.md)
 

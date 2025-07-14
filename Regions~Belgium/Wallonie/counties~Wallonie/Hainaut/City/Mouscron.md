@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mouscron.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMouscron.public.md) 
+### [Mouscron](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mouscron.md) 
 
-### [Mouscron.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMouscron.internal.md) 
+### [Mouscron.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mouscron.public.md) 
 
-### [Mouscron.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMouscron.protect.md) 
+### [Mouscron.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mouscron.internal.md) 
 
-### [Mouscron.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMouscron.private.md) 
+### [Mouscron.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mouscron.protect.md) 
 
-### [Mouscron.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMouscron.personal.md) 
+### [Mouscron.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mouscron.private.md) 
 
-### [Mouscron.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityMouscron.secret.md)
+### [Mouscron.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mouscron.personal.md) 
+
+### [Mouscron.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mouscron.secret.md)
 

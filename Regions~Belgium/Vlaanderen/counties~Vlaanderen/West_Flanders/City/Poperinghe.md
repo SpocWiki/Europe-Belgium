@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poperinghe.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityPoperinghe.public.md) 
+### [Poperinghe](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Poperinghe.md) 
 
-### [Poperinghe.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityPoperinghe.internal.md) 
+### [Poperinghe.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Poperinghe.public.md) 
 
-### [Poperinghe.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityPoperinghe.protect.md) 
+### [Poperinghe.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Poperinghe.internal.md) 
 
-### [Poperinghe.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityPoperinghe.private.md) 
+### [Poperinghe.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Poperinghe.protect.md) 
 
-### [Poperinghe.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityPoperinghe.personal.md) 
+### [Poperinghe.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Poperinghe.private.md) 
 
-### [Poperinghe.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityPoperinghe.secret.md)
+### [Poperinghe.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Poperinghe.personal.md) 
+
+### [Poperinghe.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Poperinghe.secret.md)
 

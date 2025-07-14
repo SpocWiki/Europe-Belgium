@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ypern=Ypers.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.public.md) 
+### [Ypern=Ypers](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Ypern=Ypers.md) 
 
-### [Ypern=Ypers.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.internal.md) 
+### [Ypern=Ypers.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Ypern=Ypers.public.md) 
 
-### [Ypern=Ypers.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.protect.md) 
+### [Ypern=Ypers.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Ypern=Ypers.internal.md) 
 
-### [Ypern=Ypers.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.private.md) 
+### [Ypern=Ypers.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Ypern=Ypers.protect.md) 
 
-### [Ypern=Ypers.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.personal.md) 
+### [Ypern=Ypers.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Ypern=Ypers.private.md) 
 
-### [Ypern=Ypers.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.secret.md)
+### [Ypern=Ypers.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Ypern=Ypers.personal.md) 
+
+### [Ypern=Ypers.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Ypern=Ypers.secret.md)
 

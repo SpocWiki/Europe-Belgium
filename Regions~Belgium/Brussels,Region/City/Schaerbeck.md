@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schaerbeck.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CitySchaerbeck.public.md) 
+### [Schaerbeck](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Schaerbeck.md) 
 
-### [Schaerbeck.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CitySchaerbeck.internal.md) 
+### [Schaerbeck.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Schaerbeck.public.md) 
 
-### [Schaerbeck.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CitySchaerbeck.protect.md) 
+### [Schaerbeck.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Schaerbeck.internal.md) 
 
-### [Schaerbeck.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CitySchaerbeck.private.md) 
+### [Schaerbeck.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Schaerbeck.protect.md) 
 
-### [Schaerbeck.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CitySchaerbeck.personal.md) 
+### [Schaerbeck.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Schaerbeck.private.md) 
 
-### [Schaerbeck.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CitySchaerbeck.secret.md)
+### [Schaerbeck.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Schaerbeck.personal.md) 
+
+### [Schaerbeck.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Schaerbeck.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./East_Flanders/
 
 ## Confidential Links & Embeds: 
 
-### [East_Flanders.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.public.md) 
+### [East_Flanders](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders.md) 
 
-### [East_Flanders.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.internal.md) 
+### [East_Flanders.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders.public.md) 
 
-### [East_Flanders.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.protect.md) 
+### [East_Flanders.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders.internal.md) 
 
-### [East_Flanders.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.private.md) 
+### [East_Flanders.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders.protect.md) 
 
-### [East_Flanders.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.personal.md) 
+### [East_Flanders.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders.private.md) 
 
-### [East_Flanders.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.secret.md)
+### [East_Flanders.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders.personal.md) 
+
+### [East_Flanders.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders.secret.md)
 

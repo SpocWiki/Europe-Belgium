@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malmedy.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityMalmedy.public.md) 
+### [Malmedy](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/Malmedy.md) 
 
-### [Malmedy.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityMalmedy.internal.md) 
+### [Malmedy.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/Malmedy.public.md) 
 
-### [Malmedy.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityMalmedy.protect.md) 
+### [Malmedy.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/Malmedy.internal.md) 
 
-### [Malmedy.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityMalmedy.private.md) 
+### [Malmedy.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/Malmedy.protect.md) 
 
-### [Malmedy.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityMalmedy.personal.md) 
+### [Malmedy.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/Malmedy.private.md) 
 
-### [Malmedy.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityMalmedy.secret.md)
+### [Malmedy.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/Malmedy.personal.md) 
+
+### [Malmedy.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/Malmedy.secret.md)
 

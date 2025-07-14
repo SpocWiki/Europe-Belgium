@@ -41,15 +41,17 @@ markerFolder: ./Luxembourg/
 
 ## Confidential Links & Embeds: 
 
-### [Luxembourg.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLuxembourg.public.md) 
+### [Luxembourg](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg.md) 
 
-### [Luxembourg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLuxembourg.internal.md) 
+### [Luxembourg.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg.public.md) 
 
-### [Luxembourg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLuxembourg.protect.md) 
+### [Luxembourg.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg.internal.md) 
 
-### [Luxembourg.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLuxembourg.private.md) 
+### [Luxembourg.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg.protect.md) 
 
-### [Luxembourg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLuxembourg.personal.md) 
+### [Luxembourg.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg.private.md) 
 
-### [Luxembourg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieLuxembourg.secret.md)
+### [Luxembourg.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg.personal.md) 
+
+### [Luxembourg.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg.secret.md)
 

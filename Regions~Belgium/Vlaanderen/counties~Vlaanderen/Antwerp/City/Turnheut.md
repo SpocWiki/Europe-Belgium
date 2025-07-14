@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Turnheut.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityTurnheut.public.md) 
+### [Turnheut](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Turnheut.md) 
 
-### [Turnheut.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityTurnheut.internal.md) 
+### [Turnheut.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Turnheut.public.md) 
 
-### [Turnheut.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityTurnheut.protect.md) 
+### [Turnheut.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Turnheut.internal.md) 
 
-### [Turnheut.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityTurnheut.private.md) 
+### [Turnheut.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Turnheut.protect.md) 
 
-### [Turnheut.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityTurnheut.personal.md) 
+### [Turnheut.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Turnheut.private.md) 
 
-### [Turnheut.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityTurnheut.secret.md)
+### [Turnheut.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Turnheut.personal.md) 
+
+### [Turnheut.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Turnheut.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Antwerp/
 
 ## Confidential Links & Embeds: 
 
-### [Antwerp.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.public.md) 
+### [Antwerp](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp.md) 
 
-### [Antwerp.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.internal.md) 
+### [Antwerp.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp.public.md) 
 
-### [Antwerp.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.protect.md) 
+### [Antwerp.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp.internal.md) 
 
-### [Antwerp.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.private.md) 
+### [Antwerp.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp.protect.md) 
 
-### [Antwerp.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.personal.md) 
+### [Antwerp.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp.private.md) 
 
-### [Antwerp.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.secret.md)
+### [Antwerp.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp.personal.md) 
+
+### [Antwerp.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp.secret.md)
 

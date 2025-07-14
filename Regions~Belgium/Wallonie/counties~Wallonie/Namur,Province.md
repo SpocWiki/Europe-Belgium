@@ -41,15 +41,17 @@ markerFolder: ./Namur/
 
 ## Confidential Links & Embeds: 
 
-### [Namur,Province.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieNamur,Province.public.md) 
+### [Namur,Province](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province.md) 
 
-### [Namur,Province.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieNamur,Province.internal.md) 
+### [Namur,Province.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province.public.md) 
 
-### [Namur,Province.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieNamur,Province.protect.md) 
+### [Namur,Province.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province.internal.md) 
 
-### [Namur,Province.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieNamur,Province.private.md) 
+### [Namur,Province.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province.protect.md) 
 
-### [Namur,Province.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieNamur,Province.personal.md) 
+### [Namur,Province.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province.private.md) 
 
-### [Namur,Province.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieNamur,Province.secret.md)
+### [Namur,Province.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province.personal.md) 
+
+### [Namur,Province.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province.secret.md)
 

@@ -18,19 +18,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Wallonia)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Wallonie.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.public.md) 
+### [Wallonie](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.md) 
 
-### [Wallonie.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.internal.md) 
+### [Wallonie.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.public.md) 
 
-### [Wallonie.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.protect.md) 
+### [Wallonie.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.internal.md) 
 
-### [Wallonie.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.private.md) 
+### [Wallonie.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.protect.md) 
 
-### [Wallonie.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.personal.md) 
+### [Wallonie.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.private.md) 
 
-### [Wallonie.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.secret.md)
+### [Wallonie.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.personal.md) 
+
+### [Wallonie.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.secret.md)
 

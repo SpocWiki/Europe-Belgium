@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laeken.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityLaeken.public.md) 
+### [Laeken](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Laeken.md) 
 
-### [Laeken.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityLaeken.internal.md) 
+### [Laeken.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Laeken.public.md) 
 
-### [Laeken.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityLaeken.protect.md) 
+### [Laeken.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Laeken.internal.md) 
 
-### [Laeken.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityLaeken.private.md) 
+### [Laeken.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Laeken.protect.md) 
 
-### [Laeken.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityLaeken.personal.md) 
+### [Laeken.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Laeken.private.md) 
 
-### [Laeken.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityLaeken.secret.md)
+### [Laeken.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Laeken.personal.md) 
+
+### [Laeken.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Laeken.secret.md)
 

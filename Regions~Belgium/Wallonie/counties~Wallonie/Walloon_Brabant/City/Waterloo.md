@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waterloo.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityWaterloo.public.md) 
+### [Waterloo](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Waterloo.md) 
 
-### [Waterloo.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityWaterloo.internal.md) 
+### [Waterloo.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Waterloo.public.md) 
 
-### [Waterloo.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityWaterloo.protect.md) 
+### [Waterloo.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Waterloo.internal.md) 
 
-### [Waterloo.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityWaterloo.private.md) 
+### [Waterloo.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Waterloo.protect.md) 
 
-### [Waterloo.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityWaterloo.personal.md) 
+### [Waterloo.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Waterloo.private.md) 
 
-### [Waterloo.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityWaterloo.secret.md)
+### [Waterloo.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Waterloo.personal.md) 
+
+### [Waterloo.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Waterloo.secret.md)
 

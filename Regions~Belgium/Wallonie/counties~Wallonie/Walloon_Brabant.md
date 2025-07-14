@@ -41,15 +41,17 @@ markerFolder: ./Walloon_Brabant/
 
 ## Confidential Links & Embeds: 
 
-### [Walloon_Brabant.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieWalloon_Brabant.public.md) 
+### [Walloon_Brabant](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.md) 
 
-### [Walloon_Brabant.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieWalloon_Brabant.internal.md) 
+### [Walloon_Brabant.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.public.md) 
 
-### [Walloon_Brabant.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieWalloon_Brabant.protect.md) 
+### [Walloon_Brabant.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.internal.md) 
 
-### [Walloon_Brabant.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieWalloon_Brabant.private.md) 
+### [Walloon_Brabant.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.protect.md) 
 
-### [Walloon_Brabant.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieWalloon_Brabant.personal.md) 
+### [Walloon_Brabant.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.private.md) 
 
-### [Walloon_Brabant.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieWalloon_Brabant.secret.md)
+### [Walloon_Brabant.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.personal.md) 
+
+### [Walloon_Brabant.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.secret.md)
 

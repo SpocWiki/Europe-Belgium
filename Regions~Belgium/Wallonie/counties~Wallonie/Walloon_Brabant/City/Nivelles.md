@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nivelles.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.public.md) 
+### [Nivelles](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Nivelles.md) 
 
-### [Nivelles.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.internal.md) 
+### [Nivelles.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Nivelles.public.md) 
 
-### [Nivelles.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.protect.md) 
+### [Nivelles.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Nivelles.internal.md) 
 
-### [Nivelles.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.private.md) 
+### [Nivelles.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Nivelles.protect.md) 
 
-### [Nivelles.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.personal.md) 
+### [Nivelles.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Nivelles.private.md) 
 
-### [Nivelles.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.secret.md)
+### [Nivelles.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Nivelles.personal.md) 
+
+### [Nivelles.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Nivelles.secret.md)
 

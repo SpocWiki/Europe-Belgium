@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perwez.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.public.md) 
+### [Perwez](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Perwez.md) 
 
-### [Perwez.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.internal.md) 
+### [Perwez.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Perwez.public.md) 
 
-### [Perwez.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.protect.md) 
+### [Perwez.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Perwez.internal.md) 
 
-### [Perwez.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.private.md) 
+### [Perwez.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Perwez.protect.md) 
 
-### [Perwez.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.personal.md) 
+### [Perwez.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Perwez.private.md) 
 
-### [Perwez.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.secret.md)
+### [Perwez.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Perwez.personal.md) 
+
+### [Perwez.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant/City/Perwez.secret.md)
 

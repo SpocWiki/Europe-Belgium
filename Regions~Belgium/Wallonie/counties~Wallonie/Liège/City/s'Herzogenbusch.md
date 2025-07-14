@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [s'Herzogenbusch.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.public.md) 
+### [s'Herzogenbusch](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/s'Herzogenbusch.md) 
 
-### [s'Herzogenbusch.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.internal.md) 
+### [s'Herzogenbusch.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/s'Herzogenbusch.public.md) 
 
-### [s'Herzogenbusch.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.protect.md) 
+### [s'Herzogenbusch.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/s'Herzogenbusch.internal.md) 
 
-### [s'Herzogenbusch.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.private.md) 
+### [s'Herzogenbusch.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/s'Herzogenbusch.protect.md) 
 
-### [s'Herzogenbusch.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.personal.md) 
+### [s'Herzogenbusch.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/s'Herzogenbusch.private.md) 
 
-### [s'Herzogenbusch.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.secret.md)
+### [s'Herzogenbusch.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/s'Herzogenbusch.personal.md) 
+
+### [s'Herzogenbusch.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège/City/s'Herzogenbusch.secret.md)
 

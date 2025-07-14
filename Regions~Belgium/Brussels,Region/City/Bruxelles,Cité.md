@@ -243,15 +243,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bruxelles,Cité.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.public.md) 
+### [Bruxelles,Cité](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité.md) 
 
-### [Bruxelles,Cité.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.internal.md) 
+### [Bruxelles,Cité.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité.public.md) 
 
-### [Bruxelles,Cité.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.protect.md) 
+### [Bruxelles,Cité.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité.internal.md) 
 
-### [Bruxelles,Cité.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.private.md) 
+### [Bruxelles,Cité.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité.protect.md) 
 
-### [Bruxelles,Cité.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.personal.md) 
+### [Bruxelles,Cité.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité.private.md) 
 
-### [Bruxelles,Cité.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.secret.md)
+### [Bruxelles,Cité.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité.personal.md) 
+
+### [Bruxelles,Cité.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité.secret.md)
 

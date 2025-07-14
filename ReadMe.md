@@ -134,15 +134,17 @@ Capital :: [[Regions~Belgium/Brussels,Region/City/Bruxelles,Cité]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/ReadMe.secret.md)
 

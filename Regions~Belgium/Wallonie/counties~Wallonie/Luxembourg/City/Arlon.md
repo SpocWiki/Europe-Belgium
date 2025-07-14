@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arlon.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityArlon.public.md) 
+### [Arlon](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Arlon.md) 
 
-### [Arlon.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityArlon.internal.md) 
+### [Arlon.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Arlon.public.md) 
 
-### [Arlon.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityArlon.protect.md) 
+### [Arlon.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Arlon.internal.md) 
 
-### [Arlon.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityArlon.private.md) 
+### [Arlon.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Arlon.protect.md) 
 
-### [Arlon.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityArlon.personal.md) 
+### [Arlon.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Arlon.private.md) 
 
-### [Arlon.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Luxembourg\CityArlon.secret.md)
+### [Arlon.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Arlon.personal.md) 
+
+### [Arlon.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Luxembourg/City/Arlon.secret.md)
 
