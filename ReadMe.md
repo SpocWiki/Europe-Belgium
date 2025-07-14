@@ -132,12 +132,17 @@ Capital :: [[Regions~Belgium/Brussels,Region/City/Bruxelles,Cité]]
 [has_place_latitude::50.8165] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium|Belgium]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~West/Belgium.public|Belgium.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium.internal|Belgium.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium.protect|Belgium.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~West/Belgium.private|Belgium.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium.personal|Belgium.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium.secret|Belgium.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~West\BelgiumReadMe.secret.md)
+

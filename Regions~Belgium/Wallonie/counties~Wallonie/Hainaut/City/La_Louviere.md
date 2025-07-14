@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/La_Louviere|La_Louviere]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/La_Louviere.public|La_Louviere.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/La_Louviere.internal|La_Louviere.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/La_Louviere.protect|La_Louviere.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/La_Louviere.private|La_Louviere.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/La_Louviere.personal|La_Louviere.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/La_Louviere.secret|La_Louviere.secret]] 
+
+### [La_Louviere.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityLa_Louviere.public.md) 
+
+### [La_Louviere.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityLa_Louviere.internal.md) 
+
+### [La_Louviere.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityLa_Louviere.protect.md) 
+
+### [La_Louviere.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityLa_Louviere.private.md) 
+
+### [La_Louviere.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityLa_Louviere.personal.md) 
+
+### [La_Louviere.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Hainaut\CityLa_Louviere.secret.md)
+

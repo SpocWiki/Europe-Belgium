@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Mecheln|Mecheln]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Mecheln.public|Mecheln.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Mecheln.internal|Mecheln.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Mecheln.protect|Mecheln.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Mecheln.private|Mecheln.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Mecheln.personal|Mecheln.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Mecheln.secret|Mecheln.secret]] 
+
+### [Mecheln.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMecheln.public.md) 
+
+### [Mecheln.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMecheln.internal.md) 
+
+### [Mecheln.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMecheln.protect.md) 
+
+### [Mecheln.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMecheln.private.md) 
+
+### [Mecheln.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMecheln.personal.md) 
+
+### [Mecheln.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Antwerp\CityMecheln.secret.md)
+

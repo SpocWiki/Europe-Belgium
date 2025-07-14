@@ -17,3 +17,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wallonia)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Wallonie.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.public.md) 
+
+### [Wallonie.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.internal.md) 
+
+### [Wallonie.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.protect.md) 
+
+### [Wallonie.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.private.md) 
+
+### [Wallonie.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.personal.md) 
+
+### [Wallonie.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumWallonie.secret.md)
+

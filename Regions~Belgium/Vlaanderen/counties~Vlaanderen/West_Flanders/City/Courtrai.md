@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Courtrai|Courtrai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Courtrai.public|Courtrai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Courtrai.internal|Courtrai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Courtrai.protect|Courtrai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Courtrai.private|Courtrai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Courtrai.personal|Courtrai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Courtrai.secret|Courtrai.secret]] 
+
+### [Courtrai.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityCourtrai.public.md) 
+
+### [Courtrai.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityCourtrai.internal.md) 
+
+### [Courtrai.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityCourtrai.protect.md) 
+
+### [Courtrai.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityCourtrai.private.md) 
+
+### [Courtrai.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityCourtrai.personal.md) 
+
+### [Courtrai.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityCourtrai.secret.md)
+

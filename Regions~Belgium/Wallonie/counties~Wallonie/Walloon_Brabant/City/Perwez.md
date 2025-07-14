@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Perwez|Perwez]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Perwez.public|Perwez.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Perwez.internal|Perwez.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Perwez.protect|Perwez.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Perwez.private|Perwez.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Perwez.personal|Perwez.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Perwez.secret|Perwez.secret]] 
+
+### [Perwez.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.public.md) 
+
+### [Perwez.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.internal.md) 
+
+### [Perwez.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.protect.md) 
+
+### [Perwez.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.private.md) 
+
+### [Perwez.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.personal.md) 
+
+### [Perwez.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityPerwez.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.85
 - 4.36
@@ -242,10 +242,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Bruessel|Bruessel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Bruessel.public|Bruessel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Bruessel.internal|Bruessel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Bruessel.protect|Bruessel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Bruessel.private|Bruessel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Bruessel.personal|Bruessel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Bruessel.secret|Bruessel.secret]] 
+
+### [Bruxelles,Cité.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.public.md) 
+
+### [Bruxelles,Cité.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.internal.md) 
+
+### [Bruxelles,Cité.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.protect.md) 
+
+### [Bruxelles,Cité.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.private.md) 
+
+### [Bruxelles,Cité.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.personal.md) 
+
+### [Bruxelles,Cité.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Brussels,Region\CityBruxelles,Cité.secret.md)
+

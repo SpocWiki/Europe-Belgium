@@ -65,13 +65,17 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Leuven)
 
 
-
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Loewen=Lourian|Loewen=Lourian]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Loewen=Lourian.public|Loewen=Lourian.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Loewen=Lourian.internal|Loewen=Lourian.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Loewen=Lourian.protect|Loewen=Lourian.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Loewen=Lourian.private|Loewen=Lourian.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Loewen=Lourian.personal|Loewen=Lourian.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Loewen=Lourian.secret|Loewen=Lourian.secret]] 
+
+### [Leuven.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.public.md) 
+
+### [Leuven.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.internal.md) 
+
+### [Leuven.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.protect.md) 
+
+### [Leuven.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.private.md) 
+
+### [Leuven.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.personal.md) 
+
+### [Leuven.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityLeuven.secret.md)
+

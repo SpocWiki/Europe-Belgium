@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/St.Trond|St.Trond]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/St.Trond.public|St.Trond.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/St.Trond.internal|St.Trond.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/St.Trond.protect|St.Trond.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/St.Trond.private|St.Trond.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/St.Trond.personal|St.Trond.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/St.Trond.secret|St.Trond.secret]] 
+
+### [St.Trond.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Limburg\CitySt.Trond.public.md) 
+
+### [St.Trond.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Limburg\CitySt.Trond.internal.md) 
+
+### [St.Trond.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Limburg\CitySt.Trond.protect.md) 
+
+### [St.Trond.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Limburg\CitySt.Trond.private.md) 
+
+### [St.Trond.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Limburg\CitySt.Trond.personal.md) 
+
+### [St.Trond.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Limburg\CitySt.Trond.secret.md)
+

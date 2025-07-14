@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Nivelles|Nivelles]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Nivelles.public|Nivelles.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Nivelles.internal|Nivelles.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Nivelles.protect|Nivelles.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Nivelles.private|Nivelles.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Nivelles.personal|Nivelles.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Nivelles.secret|Nivelles.secret]] 
+
+### [Nivelles.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.public.md) 
+
+### [Nivelles.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.internal.md) 
+
+### [Nivelles.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.protect.md) 
+
+### [Nivelles.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.private.md) 
+
+### [Nivelles.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.personal.md) 
+
+### [Nivelles.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Walloon_Brabant\CityNivelles.secret.md)
+

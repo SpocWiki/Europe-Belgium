@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/s'Herzogenbusch|s'Herzogenbusch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/s'Herzogenbusch.public|s'Herzogenbusch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/s'Herzogenbusch.internal|s'Herzogenbusch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/s'Herzogenbusch.protect|s'Herzogenbusch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/s'Herzogenbusch.private|s'Herzogenbusch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/s'Herzogenbusch.personal|s'Herzogenbusch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/s'Herzogenbusch.secret|s'Herzogenbusch.secret]] 
+
+### [s'Herzogenbusch.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.public.md) 
+
+### [s'Herzogenbusch.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.internal.md) 
+
+### [s'Herzogenbusch.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.protect.md) 
+
+### [s'Herzogenbusch.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.private.md) 
+
+### [s'Herzogenbusch.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.personal.md) 
+
+### [s'Herzogenbusch.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\Citys'Herzogenbusch.secret.md)
+

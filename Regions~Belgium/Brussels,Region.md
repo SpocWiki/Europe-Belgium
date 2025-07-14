@@ -86,12 +86,18 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brussels)
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels|Brussels]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.public|Brussels.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.internal|Brussels.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.protect|Brussels.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.private|Brussels.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.personal|Brussels.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.secret|Brussels.secret]] 
+
+### [Brussels,Region.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumBrussels,Region.public.md) 
+
+### [Brussels,Region.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumBrussels,Region.internal.md) 
+
+### [Brussels,Region.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumBrussels,Region.protect.md) 
+
+### [Brussels,Region.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumBrussels,Region.private.md) 
+
+### [Brussels,Region.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumBrussels,Region.personal.md) 
+
+### [Brussels,Region.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumBrussels,Region.secret.md)
 

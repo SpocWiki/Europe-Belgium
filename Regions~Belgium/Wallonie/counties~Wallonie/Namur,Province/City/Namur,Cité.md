@@ -39,10 +39,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Namur|Namur]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Namur.public|Namur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Namur.internal|Namur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Namur.protect|Namur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Namur.private|Namur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Namur.personal|Namur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Namur.secret|Namur.secret]] 
+
+### [Namur,Cité.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.public.md) 
+
+### [Namur,Cité.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.internal.md) 
+
+### [Namur,Cité.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.protect.md) 
+
+### [Namur,Cité.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.private.md) 
+
+### [Namur,Cité.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.personal.md) 
+
+### [Namur,Cité.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Namur,Province\CityNamur,Cité.secret.md)
+

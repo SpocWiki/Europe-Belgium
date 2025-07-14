@@ -40,11 +40,16 @@ markerFolder: ./Flemish_Brabant/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/Flemish_Brabant|Flemish_Brabant]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/Flemish_Brabant.public|Flemish_Brabant.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/Flemish_Brabant.internal|Flemish_Brabant.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/Flemish_Brabant.protect|Flemish_Brabant.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/Flemish_Brabant.private|Flemish_Brabant.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/Flemish_Brabant.personal|Flemish_Brabant.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/Flemish_Brabant.secret|Flemish_Brabant.secret]] 
+
+### [Flemish_Brabant.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.public.md) 
+
+### [Flemish_Brabant.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.internal.md) 
+
+### [Flemish_Brabant.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.protect.md) 
+
+### [Flemish_Brabant.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.private.md) 
+
+### [Flemish_Brabant.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.personal.md) 
+
+### [Flemish_Brabant.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenFlemish_Brabant.secret.md)
 

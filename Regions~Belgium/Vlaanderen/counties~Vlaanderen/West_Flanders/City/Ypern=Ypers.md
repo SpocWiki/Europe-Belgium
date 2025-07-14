@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Ypern=Ypers|Ypern=Ypers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Ypern=Ypers.public|Ypern=Ypers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Ypern=Ypers.internal|Ypern=Ypers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Ypern=Ypers.protect|Ypern=Ypers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Ypern=Ypers.private|Ypern=Ypers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Ypern=Ypers.personal|Ypern=Ypers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Ypern=Ypers.secret|Ypern=Ypers.secret]] 
+
+### [Ypern=Ypers.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.public.md) 
+
+### [Ypern=Ypers.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.internal.md) 
+
+### [Ypern=Ypers.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.protect.md) 
+
+### [Ypern=Ypers.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.private.md) 
+
+### [Ypern=Ypers.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.personal.md) 
+
+### [Ypern=Ypers.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityYpern=Ypers.secret.md)
+

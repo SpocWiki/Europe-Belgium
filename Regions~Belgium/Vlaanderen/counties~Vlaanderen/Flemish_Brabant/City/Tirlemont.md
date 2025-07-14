@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Tirlemont|Tirlemont]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Tirlemont.public|Tirlemont.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Tirlemont.internal|Tirlemont.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Tirlemont.protect|Tirlemont.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Tirlemont.private|Tirlemont.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Tirlemont.personal|Tirlemont.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Tirlemont.secret|Tirlemont.secret]] 
+
+### [Tirlemont.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.public.md) 
+
+### [Tirlemont.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.internal.md) 
+
+### [Tirlemont.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.protect.md) 
+
+### [Tirlemont.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.private.md) 
+
+### [Tirlemont.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.personal.md) 
+
+### [Tirlemont.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\Flemish_Brabant\CityTirlemont.secret.md)
+

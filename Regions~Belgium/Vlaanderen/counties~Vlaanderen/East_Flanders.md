@@ -40,21 +40,16 @@ markerFolder: ./East_Flanders/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/East_Flanders|East_Flanders]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/East_Flanders.public|East_Flanders.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/East_Flanders.internal|East_Flanders.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/East_Flanders.protect|East_Flanders.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/East_Flanders.private|East_Flanders.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/East_Flanders.personal|East_Flanders.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/East_Flanders.secret|East_Flanders.secret]] 
 
+### [East_Flanders.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.public.md) 
 
-```leaflet
-id: Burgenland
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./East_Flanders/
-markerFolder: ./East_Flanders//
-```
+### [East_Flanders.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.internal.md) 
+
+### [East_Flanders.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.protect.md) 
+
+### [East_Flanders.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.private.md) 
+
+### [East_Flanders.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.personal.md) 
+
+### [East_Flanders.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenEast_Flanders.secret.md)
 

@@ -41,11 +41,16 @@ markerFolder: ./Hainaut/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/Hainaut|Hainaut]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/Hainaut.public|Hainaut.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/Hainaut.internal|Hainaut.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/Hainaut.protect|Hainaut.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/Hainaut.private|Hainaut.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/Hainaut.personal|Hainaut.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/Hainaut.secret|Hainaut.secret]] 
+
+### [Hainaut.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieHainaut.public.md) 
+
+### [Hainaut.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieHainaut.internal.md) 
+
+### [Hainaut.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieHainaut.protect.md) 
+
+### [Hainaut.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieHainaut.private.md) 
+
+### [Hainaut.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieHainaut.personal.md) 
+
+### [Hainaut.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~WallonieHainaut.secret.md)
 

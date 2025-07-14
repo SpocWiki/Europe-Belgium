@@ -39,10 +39,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Bruegge=Bruges|Bruegge=Bruges]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Bruegge=Bruges.public|Bruegge=Bruges.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Bruegge=Bruges.internal|Bruegge=Bruges.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Bruegge=Bruges.protect|Bruegge=Bruges.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Bruegge=Bruges.private|Bruegge=Bruges.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Bruegge=Bruges.personal|Bruegge=Bruges.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Bruegge=Bruges.secret|Bruegge=Bruges.secret]] 
+
+### [Bruges.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBruges.public.md) 
+
+### [Bruges.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBruges.internal.md) 
+
+### [Bruges.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBruges.protect.md) 
+
+### [Bruges.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBruges.private.md) 
+
+### [Bruges.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBruges.personal.md) 
+
+### [Bruges.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBruges.secret.md)
+

@@ -17,3 +17,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vlaanderen.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.public.md) 
+
+### [Vlaanderen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.internal.md) 
+
+### [Vlaanderen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.protect.md) 
+
+### [Vlaanderen.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.private.md) 
+
+### [Vlaanderen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.personal.md) 
+
+### [Vlaanderen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~BelgiumVlaanderen.secret.md)
+

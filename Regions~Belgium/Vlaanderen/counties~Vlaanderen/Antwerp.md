@@ -40,21 +40,16 @@ markerFolder: ./Antwerp/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/Antwerp|Antwerp]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/Antwerp.public|Antwerp.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/Antwerp.internal|Antwerp.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/Antwerp.protect|Antwerp.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/Antwerp.private|Antwerp.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/Antwerp.personal|Antwerp.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/Antwerp.secret|Antwerp.secret]] 
 
+### [Antwerp.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.public.md) 
 
-```leaflet
-id: Burgenland
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Antwerp/
-markerFolder: ./Antwerp//
-```
+### [Antwerp.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.internal.md) 
+
+### [Antwerp.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.protect.md) 
+
+### [Antwerp.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.private.md) 
+
+### [Antwerp.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.personal.md) 
+
+### [Antwerp.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~VlaanderenAntwerp.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Blankenberghe|Blankenberghe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Blankenberghe.public|Blankenberghe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Blankenberghe.internal|Blankenberghe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Blankenberghe.protect|Blankenberghe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Blankenberghe.private|Blankenberghe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Blankenberghe.personal|Blankenberghe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Blankenberghe.secret|Blankenberghe.secret]] 
+
+### [Blankenberghe.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.public.md) 
+
+### [Blankenberghe.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.internal.md) 
+
+### [Blankenberghe.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.protect.md) 
+
+### [Blankenberghe.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.private.md) 
+
+### [Blankenberghe.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.personal.md) 
+
+### [Blankenberghe.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Vlaanderen\counties~Vlaanderen\West_Flanders\CityBlankenberghe.secret.md)
+

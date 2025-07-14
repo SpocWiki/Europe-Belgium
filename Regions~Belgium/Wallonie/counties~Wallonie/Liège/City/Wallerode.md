@@ -33,9 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wallerode|Wallerode]]  
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~West/Germany/West/Rheinland-Pfalz/City/Wallerode.internal|Wallerode.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~West/Germany/West/Rheinland-Pfalz/City/Wallerode.protect|Wallerode.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~West/Germany/West/Rheinland-Pfalz/City/Wallerode.private|Wallerode.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~West/Germany/West/Rheinland-Pfalz/City/Wallerode.personal|Wallerode.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~West/Germany/West/Rheinland-Pfalz/City/Wallerode.secret|Wallerode.secret]] 
+
+### [Wallerode.public](/_public/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityWallerode.public.md) 
+
+### [Wallerode.internal](/_internal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityWallerode.internal.md) 
+
+### [Wallerode.protect](/_protect/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityWallerode.protect.md) 
+
+### [Wallerode.private](/_private/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityWallerode.private.md) 
+
+### [Wallerode.personal](/_personal/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityWallerode.personal.md) 
+
+### [Wallerode.secret](/_secret/\Earth\Continent\Europe\Europe~West\Belgium\Regions~Belgium\Wallonie\counties~Wallonie\Liège\CityWallerode.secret.md)
+
