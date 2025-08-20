@@ -1,37 +1,38 @@
 ---
 location:
-- 50.8165
-- 4.29368
+  - 50.8165
+  - 4.29368
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Belgium
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Belgium
-- Bélgica
-- Belgique
-- بلجيكا
-- 比利时
-- Бельгия
-- the Kingdom of Belgium
-- el Reino de Bélgica
+  - Belgium
+  - Bélgica
+  - Belgique
+  - بلجيكا
+  - 比利时
+  - Бельгия
+  - the Kingdom of Belgium
+  - el Reino de Bélgica
 Languages:
-- nl-BE
-- fr-BE
-- de-BE
+  - nl-BE
+  - fr-BE
+  - de-BE
 ---
 
 
