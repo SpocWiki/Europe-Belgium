@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Walloon_Brabant
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Walloon_Brabant/
 markerFolder: ./Walloon_Brabant/

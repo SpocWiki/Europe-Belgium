@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: East_Flanders
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./East_Flanders/
 markerFolder: ./East_Flanders/
