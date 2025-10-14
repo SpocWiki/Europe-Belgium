@@ -20,7 +20,7 @@ confidential: public
 Country :: [[Germany]]  
 State :: [[../../Rheinland-Pfalz]] ] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

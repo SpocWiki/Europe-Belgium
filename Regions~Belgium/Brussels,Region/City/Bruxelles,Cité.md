@@ -233,7 +233,7 @@ State ::
 Country :: [[Belgium]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~City_of_Brussels,239|WD~City_of_Brussels,239]] 
 
