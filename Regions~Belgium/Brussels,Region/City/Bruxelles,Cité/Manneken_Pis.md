@@ -11,7 +11,7 @@ instance_of: "[[_Standards/WikiData/WD~sculpture,860861]]"
 located_on_street:
   - "[[_Standards/WikiData/WD~Rue_de_l'Étuve_Stoofstraat,3451324]]"
   - "[[_Standards/WikiData/WD~Rue_du_Chêne_Eikstraat,3452188]]"
-location: "[[_Standards/WikiData/WD~Pentagon,18435290]]"
+locations: "[[_Standards/WikiData/WD~Pentagon,18435290]]"
 described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 heritage_designation: "[[_Standards/WikiData/WD~protected_monument,19346745]]"
 depicts: "[[_Standards/WikiData/WD~Manneken_Pis,106987619]]"
