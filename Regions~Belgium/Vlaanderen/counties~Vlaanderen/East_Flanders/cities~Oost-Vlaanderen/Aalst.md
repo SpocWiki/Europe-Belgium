@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alost
+  - Aalst
 location:
   - 50.93
   - 4.03
@@ -12,9 +15,6 @@ tags:
 SpocWebEntityId: 28755
 isDeleted: false
 confidential: public
-aliases:
-  - Alost
-  - Aalst
 ---
 
 

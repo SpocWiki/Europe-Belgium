@@ -1,16 +1,19 @@
 ---
-location: [51.07,2.67] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Furnes
+location:
+  - 51.07
+  - 2.67
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30309
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

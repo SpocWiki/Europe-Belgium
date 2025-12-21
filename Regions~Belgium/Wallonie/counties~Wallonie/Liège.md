@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Liege
+  - Liège
 location:
   - 50.5
   - 5.8
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Liege
-  - Liège
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Liege

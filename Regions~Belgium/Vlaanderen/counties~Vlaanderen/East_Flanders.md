@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Oost-Vlaanderen
+  - East Flanders
+  - East_Flanders
 location:
   - 51
   - 3.8
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Oost-Vlaanderen
-  - East Flanders
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[East_Flanders]] 

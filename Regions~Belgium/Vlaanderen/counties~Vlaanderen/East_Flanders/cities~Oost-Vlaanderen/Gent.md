@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ghent
+  - Gent
 location:
   - 51.05
   - 3.73
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 30412
 isDeleted: false
 confidential: public
-aliases:
-  - Ghent
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

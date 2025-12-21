@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Walloon_Brabant
+  - Walloon Brabant
 location:
   - 50.7
   - 4.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Walloon_Brabant
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Walloon_Brabant

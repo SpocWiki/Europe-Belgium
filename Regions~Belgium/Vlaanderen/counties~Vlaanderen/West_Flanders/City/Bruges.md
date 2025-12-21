@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bruegge
+  - Brügge
+  - Bruges
 location:
   - 51.22
   - 3.23
@@ -12,10 +16,6 @@ tags:
 SpocWebEntityId: 29382
 isDeleted: false
 confidential: public
-aliases:
-  - Bruegge
-  - Brügge
-  - Bruges
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

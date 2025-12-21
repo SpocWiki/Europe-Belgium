@@ -1,4 +1,7 @@
 ---
+aliases:
+  - St.Nicolas
+  - Sint-Niklaas
 location:
   - 51.17
   - 4.08
@@ -12,9 +15,6 @@ tags:
 SpocWebEntityId: 34479
 isDeleted: false
 confidential: public
-aliases:
-  - St.Nicolas
-  - Sint-Niklaas
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

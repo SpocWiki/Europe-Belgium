@@ -1,16 +1,19 @@
 ---
-location: [49.7,5.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Arlon
+location:
+  - 49.7
+  - 5.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28873
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

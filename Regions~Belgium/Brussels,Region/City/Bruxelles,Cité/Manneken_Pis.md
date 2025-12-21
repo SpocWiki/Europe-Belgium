@@ -1,30 +1,31 @@
 ---
 aliases:
   - Manneken Pis
+  - Manneken_Pis
 has_id_wikidata: Q152072
-pendant_of: "[[_Standards/WikiData/WD~Jeanneke_Pis,152360]]"
+pendant_of: '[[_Standards/WikiData/WD~Jeanneke_Pis,152360]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Louis,247777]]"
-  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_National_Order_of_the_Golden_Paper_Cone,109909268]]"
-creator: "[[_Standards/WikiData/WD~Hiëronymus_Duquesnoy_the_Elder,638870]]"
-instance_of: "[[_Standards/WikiData/WD~sculpture,860861]]"
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Louis,247777]]'
+  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_National_Order_of_the_Golden_Paper_Cone,109909268]]'
+creator: '[[_Standards/WikiData/WD~Hiëronymus_Duquesnoy_the_Elder,638870]]'
+instance_of: '[[_Standards/WikiData/WD~sculpture,860861]]'
 located_on_street:
   - "[[_Standards/WikiData/WD~Rue_de_l'Étuve_Stoofstraat,3451324]]"
-  - "[[_Standards/WikiData/WD~Rue_du_Chêne_Eikstraat,3452188]]"
-locations: "[[_Standards/WikiData/WD~Pentagon,18435290]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-heritage_designation: "[[_Standards/WikiData/WD~protected_monument,19346745]]"
-depicts: "[[_Standards/WikiData/WD~Manneken_Pis,106987619]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Brussels,107089862]]"
-genre: "[[_Standards/WikiData/WD~fountain_statue,107194469]]"
+  - '[[_Standards/WikiData/WD~Rue_du_Chêne_Eikstraat,3452188]]'
+locations: '[[_Standards/WikiData/WD~Pentagon,18435290]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+heritage_designation: '[[_Standards/WikiData/WD~protected_monument,19346745]]'
+depicts: '[[_Standards/WikiData/WD~Manneken_Pis,106987619]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Brussels,107089862]]'
+genre: '[[_Standards/WikiData/WD~fountain_statue,107194469]]'
 coordinate_location: Point(4.349988 50.8449844)
 inception: 1619-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~Belgium,31]]"
-collection: "[[_Standards/WikiData/WD~City_of_Brussels,239]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~City_of_Brussels,239]]"
+country: '[[_Standards/WikiData/WD~Belgium,31]]'
+collection: '[[_Standards/WikiData/WD~City_of_Brussels,239]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_Brussels,239]]'
 mass: 17
 elevation_above_sea_level: 31
-made_from_material: "[[_Standards/WikiData/WD~bronze,34095]]"
+made_from_material: '[[_Standards/WikiData/WD~bronze,34095]]'
 height:
   - 61
   - 55.5

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - West-Vlaanderen
+  - West Flanders
+  - West_Flanders
 location:
   - 51
   - 3
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - West-Vlaanderen
-  - West Flanders
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # West_Flanders

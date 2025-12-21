@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Nameur
+  - Namur
+  - Namen
+  - Namur,Cité
 location:
   - 50.47
   - 4.85
@@ -12,10 +17,6 @@ tags:
 SpocWebEntityId: 32728
 isDeleted: false
 confidential: public
-aliases:
-  - Nameur
-  - Namur
-  - Namen
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

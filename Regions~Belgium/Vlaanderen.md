@@ -1,6 +1,7 @@
 ---
 aliases:
   - Flanders
+  - Vlaanderen
 ---
 
 > Flanders ( FLAHN-dərz or  FLAN-dərz; Dutch: **Vlaanderen** [ˈvlaːndərə(n)] ) is the Dutch-speaking northern portion of Belgium and one of the communities, regions and language areas of Belgium. However, there are several overlapping definitions, including ones related to culture, language, politics, and history, and sometimes involving neighbouring countries. The demonym associated with Flanders is Fleming, while the corresponding adjective is Flemish, which can also refer to the collective of Dutch dialects spoken in that area, or more generally the Belgian variant of Standard Dutch. 

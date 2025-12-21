@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Eeclo
+  - Eeklo
 location:
   - 51.18
   - 3.55
@@ -12,9 +15,6 @@ tags:
 SpocWebEntityId: 29976
 isDeleted: false
 confidential: public
-aliases:
-  - Eeclo
-  - Eeklo
 ---
 
 

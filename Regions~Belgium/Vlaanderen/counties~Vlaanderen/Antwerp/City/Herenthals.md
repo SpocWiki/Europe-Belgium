@@ -1,16 +1,19 @@
 ---
-location: [51.17,4.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Herenthals
+location:
+  - 51.17
+  - 4.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30897
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

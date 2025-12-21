@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Leuven
+  - Loewen
+  - Lourian
+  - Louvain
 location:
   - 50.88
   - 4.7
@@ -12,11 +17,6 @@ tags:
 SpocWebEntityId: 32197
 isDeleted: false
 confidential: public
-aliases:
-  - Leuven
-  - Loewen
-  - Lourian
-  - Louvain
 ---
 
 

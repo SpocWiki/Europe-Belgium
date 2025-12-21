@@ -1,16 +1,19 @@
 ---
-location: [51.25,4.43] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Merksem
+location:
+  - 51.25
+  - 4.43
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32427
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

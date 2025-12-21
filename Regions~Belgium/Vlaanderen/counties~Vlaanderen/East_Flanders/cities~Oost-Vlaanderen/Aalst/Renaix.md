@@ -1,16 +1,19 @@
 ---
-location: [50.75,3.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Renaix
+location:
+  - 50.75
+  - 3.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33706
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
