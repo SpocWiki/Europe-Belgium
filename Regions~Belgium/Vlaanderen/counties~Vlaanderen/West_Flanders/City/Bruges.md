@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.23
 dv_has_place_latitude: 51.22
-dv_name: Bruegge=Bruges
+dv_has_name_: Bruegge=Bruges
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

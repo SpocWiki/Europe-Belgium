@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.93
 dv_has_place_latitude: 50.8
-dv_name: Tirlemont
+dv_has_name_: Tirlemont
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

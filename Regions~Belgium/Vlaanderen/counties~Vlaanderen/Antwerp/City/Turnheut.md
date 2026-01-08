@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.93
 dv_has_place_latitude: 51.32
-dv_name: Turnheut
+dv_has_name_: Turnheut
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

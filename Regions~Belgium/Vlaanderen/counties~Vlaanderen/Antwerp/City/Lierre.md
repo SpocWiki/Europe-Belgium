@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.57
 dv_has_place_latitude: 51.13
-dv_name: Lierre
+dv_has_name_: Lierre
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

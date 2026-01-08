@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.03
 dv_has_place_latitude: 50.93
-dv_name: Alost
+dv_has_name_: Alost
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 

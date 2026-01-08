@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.08
 dv_has_place_latitude: 51.07
-dv_name: Thourout
+dv_has_name_: Thourout
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

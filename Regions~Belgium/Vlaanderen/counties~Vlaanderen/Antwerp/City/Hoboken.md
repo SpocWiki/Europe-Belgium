@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.35
 dv_has_place_latitude: 51.18
-dv_name: Hoboken
+dv_has_name_: Hoboken
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

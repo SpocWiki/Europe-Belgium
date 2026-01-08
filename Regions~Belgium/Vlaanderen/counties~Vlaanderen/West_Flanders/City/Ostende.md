@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.92
 dv_has_place_latitude: 51.22
-dv_name: Ostende
+dv_has_name_: Ostende
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

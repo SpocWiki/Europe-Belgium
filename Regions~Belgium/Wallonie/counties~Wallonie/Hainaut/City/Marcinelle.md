@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.4
 dv_has_place_latitude: 50.4
-dv_name: Marcinelle
+dv_has_name_: Marcinelle
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

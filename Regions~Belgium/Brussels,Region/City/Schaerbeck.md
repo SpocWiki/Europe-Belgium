@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.42
 dv_has_place_latitude: 50.87
-dv_name: Schaerbeck
+dv_has_name_: Schaerbeck
 dv_Country: "[[../../../../Belgium]]"
 ---
 #is_a_/Place  

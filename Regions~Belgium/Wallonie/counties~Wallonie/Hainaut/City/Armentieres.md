@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.87
 dv_has_place_latitude: 50.7
-dv_name: Armentieres
+dv_has_name_: Armentieres
 dv_Country: "[[../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.42
 dv_has_place_latitude: 49.6
-dv_name: Clémency
+dv_has_name_: Clémency
 dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  

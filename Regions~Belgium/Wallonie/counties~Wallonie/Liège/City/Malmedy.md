@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.03
 dv_has_place_latitude: 50.43
-dv_name: Malmedy
+dv_has_name_: Malmedy
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

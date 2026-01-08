@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.93
 dv_has_place_latitude: 50.75
-dv_name: Renaix
+dv_has_name_: Renaix
 dv_Country: "[[../../../../../../../Belgium]]"
 ---
 #is_a_/Place  

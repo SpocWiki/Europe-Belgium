@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.56
 dv_has_place_latitude: 50.62
-dv_name: Luettich
+dv_has_name_: Luettich
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

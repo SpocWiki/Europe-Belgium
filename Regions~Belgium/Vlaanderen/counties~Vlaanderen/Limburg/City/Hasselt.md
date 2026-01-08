@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.32
 dv_has_place_latitude: 50.93
-dv_name: Hasselt
+dv_has_name_: Hasselt
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

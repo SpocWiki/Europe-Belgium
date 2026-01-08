@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.7
 dv_has_place_latitude: 50.88
-dv_name: Loewen=Lourian
+dv_has_name_: Loewen=Lourian
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.83
 dv_has_place_latitude: 51.17
-dv_name: Herenthals
+dv_has_name_: Herenthals
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

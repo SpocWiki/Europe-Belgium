@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.22
 dv_has_place_latitude: 50.47
-dv_name: La Louviere
+dv_has_name_: La Louviere
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

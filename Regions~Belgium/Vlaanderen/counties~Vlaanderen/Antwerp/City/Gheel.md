@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.98
 dv_has_place_latitude: 51.17
-dv_name: Gheel
+dv_has_name_: Gheel
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

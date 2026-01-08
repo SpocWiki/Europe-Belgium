@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.47
 dv_has_place_latitude: 50.78
-dv_name: Tongres
+dv_has_name_: Tongres
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

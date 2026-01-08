@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.85
 dv_has_place_latitude: 50.47
-dv_name: Namur
+dv_has_name_: Namur
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

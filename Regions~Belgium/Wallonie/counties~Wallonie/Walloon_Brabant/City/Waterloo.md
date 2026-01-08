@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.39
 dv_has_place_latitude: 50.71
-dv_name: Waterloo
+dv_has_name_: Waterloo
 dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  

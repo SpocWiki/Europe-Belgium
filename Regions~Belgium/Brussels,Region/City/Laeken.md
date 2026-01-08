@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.35
 dv_has_place_latitude: 50.88
-dv_name: Laeken
+dv_has_name_: Laeken
 dv_Country: "[[../../../../Belgium]]"
 ---
 #is_a_/Place  
