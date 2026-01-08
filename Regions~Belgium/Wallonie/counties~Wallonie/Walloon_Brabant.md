@@ -41,17 +41,17 @@ markerFolder: ./Walloon_Brabant/
 
 ## Confidential Links & Embeds: 
 
-### [Walloon_Brabant](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant|Walloon_Brabant]] 
 
-### [Walloon_Brabant.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.public|Walloon_Brabant.public]] 
 
-### [Walloon_Brabant.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.internal|Walloon_Brabant.internal]] 
 
-### [Walloon_Brabant.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.protect|Walloon_Brabant.protect]] 
 
-### [Walloon_Brabant.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.private|Walloon_Brabant.private]] 
 
-### [Walloon_Brabant.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.personal|Walloon_Brabant.personal]] 
 
-### [Walloon_Brabant.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Walloon_Brabant.secret|Walloon_Brabant.secret]] 
 

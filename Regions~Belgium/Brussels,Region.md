@@ -89,17 +89,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Brussels,Region](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region|Brussels,Region]] 
 
-### [Brussels,Region.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.public|Brussels,Region.public]] 
 
-### [Brussels,Region.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.internal|Brussels,Region.internal]] 
 
-### [Brussels,Region.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.protect|Brussels,Region.protect]] 
 
-### [Brussels,Region.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.private|Brussels,Region.private]] 
 
-### [Brussels,Region.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.personal|Brussels,Region.personal]] 
 
-### [Brussels,Region.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region.secret|Brussels,Region.secret]] 
 

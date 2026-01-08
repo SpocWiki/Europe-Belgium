@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Manneken_Pis,152072|WD~Manneken_Pis,152072]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Manneken_Pis,152072|WD~Manneken_Pis,152072]]"
+
 has_time_started: 1619-01-01 
 aliases:
   - Manneken Pis
@@ -40,7 +44,7 @@ Commons_gallery: Manneken Pis van Brussel
 
 # [[Manneken_Pis]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Manneken_Pis,152072|WD~Manneken_Pis,152072]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -55,4 +59,21 @@ Commons_gallery: Manneken Pis van Brussel
 > Manneken Pis is approximately five minutes' walk from the Grand-Place/Grote Markt (Brussels' main square), at the junction of the Rue du Chêne/Eikstraat and the pedestrian Rue de l'Étuve/Stoofstraat. This site is served by the premetro (underground tram) station Bourse - Grand-Place/Beurs - Grote Markt (on lines 4 and 10), as well as the bus stop Grand-Place/Grote Markt (on lines 33, 48 and 95).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manneken%20Pis) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/Manneken_Pis|Manneken_Pis]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/Manneken_Pis.public|Manneken_Pis.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/Manneken_Pis.internal|Manneken_Pis.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/Manneken_Pis.protect|Manneken_Pis.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/Manneken_Pis.private|Manneken_Pis.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/Manneken_Pis.personal|Manneken_Pis.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/Manneken_Pis.secret|Manneken_Pis.secret]] 
 

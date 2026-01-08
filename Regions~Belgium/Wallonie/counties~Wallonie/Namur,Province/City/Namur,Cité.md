@@ -17,14 +17,19 @@ tags:
 SpocWebEntityId: 32728
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.85
+dv_has_place_latitude: 50.47
+dv_name: Namur
+dv_Country: "[[../../../../../../Belgium]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.85] 
-[has_place_latitude::50.47] 
-[name::Namur] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Belgium]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Namur,Cité](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité|Namur,Cité]] 
 
-### [Namur,Cité.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.public|Namur,Cité.public]] 
 
-### [Namur,Cité.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.internal|Namur,Cité.internal]] 
 
-### [Namur,Cité.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.protect|Namur,Cité.protect]] 
 
-### [Namur,Cité.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.private|Namur,Cité.private]] 
 
-### [Namur,Cité.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.personal|Namur,Cité.personal]] 
 
-### [Namur,Cité.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité.secret|Namur,Cité.secret]] 
 

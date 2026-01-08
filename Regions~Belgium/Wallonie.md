@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Wallonie](/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie|Wallonie]] 
 
-### [Wallonie.public](/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.public|Wallonie.public]] 
 
-### [Wallonie.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.internal|Wallonie.internal]] 
 
-### [Wallonie.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.protect|Wallonie.protect]] 
 
-### [Wallonie.private](/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.private|Wallonie.private]] 
 
-### [Wallonie.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.personal|Wallonie.personal]] 
 
-### [Wallonie.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Belgium/Regions~Belgium/Wallonie.secret|Wallonie.secret]] 
 

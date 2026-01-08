@@ -12,11 +12,14 @@ country: "[[_Standards/WikiData/WD~Belgium,31]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Beringen%20coal%20mine%2010.jpg
 Dewey_Decimal_Classification: "949.3"
 Commons_category: History of Belgium
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Belgium,205317]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Belgium,205317]]"
 ---
 
 # [[History_of_Belgium]] 
 
-#is_/same_as :: [[WD~History_of_Belgium,205317]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +48,21 @@ Commons_category: History of Belgium
 > Domestically, the country has faced divisions over differences of language and unequal economic development. This ongoing antagonism has caused far-reaching reforms since the 1970s. It is now divided into three regions: Dutch-speaking Flanders in the north, French-speaking Wallonia in the south, and bilingual Brussels in the middle. Since the 1990s, Belgium has become involved in several international conflicts, under the aegis of various United Nations peacekeeping forces, including the Rwandan Civil War, the ongoing civil wars in Somalia, the Kosovo War, and several others. Environmental concerns came to a head in the Dioxin affair, bringing down the Belgian government of Jean-Luc Dehaene's premiership. Since then, the Belgian political landscape has become increasingly politically fragmented; after the 2010 Belgian federal election, it took nearly a year to form a government, and in more recent elections a growing right-wing Flemish nationalist movement has had a strong influence over domestic politics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Belgium) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Belgium/History_of_Belgium|History_of_Belgium]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Belgium/History_of_Belgium.public|History_of_Belgium.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Belgium/History_of_Belgium.internal|History_of_Belgium.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Belgium/History_of_Belgium.protect|History_of_Belgium.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Belgium/History_of_Belgium.private|History_of_Belgium.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Belgium/History_of_Belgium.personal|History_of_Belgium.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Belgium/History_of_Belgium.secret|History_of_Belgium.secret]] 
 
