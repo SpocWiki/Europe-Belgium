@@ -42,7 +42,7 @@ dv_ISO4217-currency_country_name: BELGIUM
 dv_Telephone: 32
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Belgium
+dv_has_name: Belgium
 dv_has_name_en: Belgium
 dv_has_name_es: Bélgica
 dv_has_name_fr: Belgique
@@ -111,7 +111,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Belgium ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

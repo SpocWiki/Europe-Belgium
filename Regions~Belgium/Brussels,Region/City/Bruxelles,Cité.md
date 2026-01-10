@@ -224,7 +224,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20banne
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.36
 dv_has_place_latitude: 50.85
-dv_has_name_: Bruessel
+dv_has_name: Bruessel
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~City_of_Brussels,239|WD~City_of_Brussels,239]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~City_of_Brussels,239|WD~City_of_Brussels,239]]"
@@ -236,7 +236,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~City_of_Brussels,239|WD~Ci
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Belgium]]  
 [StateId::] 
