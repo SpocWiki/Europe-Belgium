@@ -11,7 +11,7 @@ dv_ISO2: BE
 dv_ISO3: BEL
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Belgium,31|WD~Belgium,31]]"
+    - "[[../../../../../WikiData/WD~Belgium,31|WD~Belgium,31]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~West/Belgium|Belgium]]"
     - "[[/_public/Earth/Continent/Europe/Europe~West/Belgium.public|Belgium.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~West/Belgium.internal|Belgium.internal]]"
@@ -377,7 +377,7 @@ dv_UNTERM_Chinese_Formal: 比利时王国
 dv_UNTERM_French_Formal: le Royaume de Belgique
 dv_UNTERM_Russian: Бельгия
 dv_UNTERM_Russian_Formal: Королевство Бельгия
-dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Belgium]]"
 dv_Sub-region_Name: "[[Western Europe]]"
 dv_Region: 150
@@ -400,16 +400,16 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 56
 dv_Area-Total: 30518
 dv_Area-Land: 32820
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: B
-dv_Capital: "[[Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité|Bruxelles,Cité]]"
+dv_Capital: "[[Regions~Belgium/Brussels,Region/City/Bruxelles,Cité|Bruxelles,Cité]]"
 dv_Alcohol-l: 10.8
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 4.29368
 dv_has_place_latitude: 50.8165
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Belgium,31|WD~Belgium,31]]"
+  - "[[../../../../../WikiData/WD~Belgium,31|WD~Belgium,31]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~West/Belgium|Belgium]]"
   - "[[/_public/Earth/Continent/Europe/Europe~West/Belgium.public|Belgium.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~West/Belgium.internal|Belgium.internal]]"
@@ -637,7 +637,7 @@ Languages:
   - de-BE
 icon: flag-be
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[/_Standards/WikiData/WD~European_Air_Transport_Command,141720|WD~European_Air_Transport_Command,141720]]"
   - "[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
@@ -750,7 +750,7 @@ part_of:
   - "[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
   - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
@@ -1119,7 +1119,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Belgium_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1141,7 +1141,7 @@ darkMode: false
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Belgium/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -1206,7 +1206,7 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Belgium.mp3|Anthem-Belgium.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Belgium.mp3|Anthem-Belgium.mp3]]
 ![[Flag_of_Belgium.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
@@ -1223,15 +1223,15 @@ Population in 1000s as of @2024
 
 | City                                                                                                        | Region                                                       | Pop/k |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------: |
-| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen\|Antwerpen]]                | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             |  544.759 |
-| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent\|Ghent]] | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             |  269.597 |
-| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Charleroi\|Charleroi]]                    | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               |  204.322 |
-| [[Belgium/Regions~Belgium/Brussels,Region/City/Bruxelles,Cité\|Brussels]]                                   | [[Belgium/Regions~Belgium/Brussels,Region\|Brussels,Region]] |  196.828 |
-| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Liège\|Liège]]                                         | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               |  197.327 |
-| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Bruges\|Bruges]]                | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             |  118.656 |
-| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité\|Namur]]                | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               |  111.432 |
-| [[Belgium/Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven\|Leuven]]              | [[Belgium/Regions~Belgium/Vlaanderen\|Flanders]]             |  102.275 |
-| [[Belgium/Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mons\|Mons]]                              | [[Belgium/Regions~Belgium/Wallonie\|Wallonia]]               |   95.887 |
+| [[Regions~Belgium/Vlaanderen/counties~Vlaanderen/Antwerp/City/Antwerpen/|Antwerpen]]                | [[Regions~Belgium/Vlaanderen/|Flanders]]             |  544.759 |
+| [[Regions~Belgium/Vlaanderen/counties~Vlaanderen/East_Flanders/cities~Oost-Vlaanderen/Gent/|Ghent]] | [[Regions~Belgium/Vlaanderen/|Flanders]]             |  269.597 |
+| [[Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Charleroi/|Charleroi]]                    | [[Regions~Belgium/Wallonie/|Wallonia]]               |  204.322 |
+| [[Regions~Belgium/Brussels,Region/City/Bruxelles,Cité/|Brussels]]                                   | [[Regions~Belgium/Brussels,Region/|Brussels,Region]] |  196.828 |
+| [[Regions~Belgium/Wallonie/counties~Wallonie/Liège/|Liège]]                                         | [[Regions~Belgium/Wallonie/|Wallonia]]               |  197.327 |
+| [[Regions~Belgium/Vlaanderen/counties~Vlaanderen/West_Flanders/City/Bruges/|Bruges]]                | [[Regions~Belgium/Vlaanderen/|Flanders]]             |  118.656 |
+| [[Regions~Belgium/Wallonie/counties~Wallonie/Namur,Province/City/Namur,Cité/|Namur]]                | [[Regions~Belgium/Wallonie/|Wallonia]]               |  111.432 |
+| [[Regions~Belgium/Vlaanderen/counties~Vlaanderen/Flemish_Brabant/City/Leuven/|Leuven]]              | [[Regions~Belgium/Vlaanderen/|Flanders]]             |  102.275 |
+| [[Regions~Belgium/Wallonie/counties~Wallonie/Hainaut/City/Mons/|Mons]]                              | [[Regions~Belgium/Wallonie/|Wallonia]]               |   95.887 |
 
 ![[Great_coat_of_arms_of_Belgium.svg|750]]
 
